@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android fundamentals 02.1</string>
+    <string name="_0">0</string>
+    <string name="count">COUNT</string>
+    <string name="say_hello">SAY HELLO</string>
+    <string name="hello">Hello!</string>
+    <string name="textview">TextView</string>
+</resources>
