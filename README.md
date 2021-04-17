@@ -1,22 +1,22 @@
-# Codelabs for Google's Android Developer Fundamentals Version 2\
+# Codelabs for Google's Android Developer Fundamentals Version 2
 
 This repository contains the solution code to code CHALLENGE and HOMEWORK section of the Android Developer Fundamentals Version 2 Course in JAVA . \
 Please note that this is not the official repository for the course.\
 You can change the name of the app and the project as per its given in the task.\
-The exceptions and code descriptions are provied within the code and can be used for better understanding.\
+The exceptions and code descriptions are provied within the code and can be used for better understanding.
 
 
 
 #CODER\
-Saswat Mund\
+Saswat Mund
 
 #Additional Notes\
 Android Studio Version: 4.1.1 and above (Android Studio is updated when a new stable version is released).\
-Gradle Version: 6.5 and above.\
+Gradle Version: 6.5 and above.
 
 #Android Version (Target API)\
 The target Android API 30  and Minimum Target API 28\
-In some cases it changes as per the demand of the app.\
+In some cases it changes as per the demand of the app.
 
 #Contents\
 1.1 Android Studio and Hello World\
@@ -48,4 +48,4 @@ In some cases it changes as per the demand of the app.\
 9.1 Shared preferences\
 9.2 App settings\
 10.1 Part A Room, LiveData, and ViewModel\
-10.1 Part B Deleting data from a Room database# Android-Developer-Fundamentals-Version2\
+10.1 Part B Deleting data from a Room database# Android-Developer-Fundamentals-Version2
