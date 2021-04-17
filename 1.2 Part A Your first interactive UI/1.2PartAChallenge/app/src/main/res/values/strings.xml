@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android fundamentals 01.2 Part A</string>
+    <string name="button_label_toast" />
+    <string name="button_label_count" />
+    <string name="count_initial_value" />
+    <string name="toast_message" />
+</resources>
