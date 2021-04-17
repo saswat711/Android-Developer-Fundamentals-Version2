@@ -48,4 +48,4 @@ In some cases it changes as per the demand of the app.
 9.1 Shared preferences
 9.2 App settings
 10.1 Part A Room, LiveData, and ViewModel
-10.1 Part B Deleting data from a Room database
+10.1 Part B Deleting data from a Room database# Android-Developer-Fundamentals-Version2
