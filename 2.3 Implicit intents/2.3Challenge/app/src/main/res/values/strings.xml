@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Androidfunamentals023</string>
+    <string name="add_item">ADD ITEM</string>
+    <string name="store_name">Store Name</string>
+    <string name="locate">LOCATE</string>
+    <string name="eggs">Eggs</string>
+    <string name="cheese">Cheese</string>
+    <string name="rice">Rice</string>
+    <string name="milk">Milk</string>
+    <string name="wheat_flour">Wheat Flour</string>
+    <string name="bread">Bread</string>
+    <string name="sugar">Sugar</string>
+    <string name="salt">Salt</string>
+    <string name="oil">Oil</string>
+    <string name="chocolate">Chocolate</string>
+</resources>
