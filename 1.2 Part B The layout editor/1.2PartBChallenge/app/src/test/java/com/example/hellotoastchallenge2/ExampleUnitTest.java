@@ -1,4 +1,4 @@
-package com.example.androidfundamentals012partb;
+package com.example.hellotoastchallenge2;
 
 import org.junit.Test;
 
