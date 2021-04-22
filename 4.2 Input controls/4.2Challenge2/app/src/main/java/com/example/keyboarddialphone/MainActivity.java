@@ -83,7 +83,7 @@ public class MainActivity extends AppCompatActivity {
         // Set the data for the intent as the phone number.
         intent.setData(Uri.parse(phoneNum));
 
-        // If the intent resolves to a package (app),
+        // If the intent re           solves to a package (app),
         // start the activity with the intent.
         if (intent.resolveActivity(getPackageManager()) != null) {
             startActivity(intent);
