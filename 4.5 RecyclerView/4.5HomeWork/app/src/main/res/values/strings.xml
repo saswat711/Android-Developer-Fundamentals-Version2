@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Recycler View</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, eu cum velit elitr, antiopam similique ut est. No reque latine fuisset sea. Sit homero splendide honestatis ut, ex purto persequeris qui. Eu veri homero numquam nec, eos sonet aliquid et. Ea purto suavitate contentiones eam, ancillae pericula sententiae eos ad, utinam viderer vis ex. Ignota indoctum ocurreret te vix, commodo pericula adolescens ea sit. Ut usu cetero latine. Percipitur assueverit vix at. Mea dolor erroribus vituperata eu. Ad sea quas copiosae imperdiet, justo minim tantas quo in. Et prima laboramus dissentias eos, summo latine phaedrum ei has. Ei autem ignota erroribus eam, mentitum interpretaris mel ei. Mei ut stet justo indoctum, pro nostro pericula cu. Modus fastidii reprimique et vel, amet tation postulant ne quo, at his sale voluptaria. An est suscipit scaevola. Sed pericula contentiones ex, te nostro fuisset assentior nec. Principes percipitur ut vis, eu tempor civibus mei. Graeci pertinacia interpretaris vim ad, summo inermis ut vix. Saepe altera moderatius cum no. Officiis recusabo facilisis ad qui, his latine constituto ad. In mea volumus efficiendi. Usu fierent iracundia no, tantas primis ex cum. Prima consetetur at qui, cu euripidis argumentum nec, te mei aliquip civibus delicatissimi. Vel deleniti vulputate tincidunt id, ubique putant option ea eum. No velit elitr argumentum per, nostrum appareat deserunt no vel.</string>
+    <string name="recipes">Recipes</string>
+
+    //Recipe Name
+<string-array name="Recipe_Name">
+        <item>Chocolate Mint Bars </item>
+        <item>Blueberry Cupcakes </item>
+        <item>Fudge Walnut Brownies </item>
+        <item>Lemon Cake </item>
+        <item>Blueberry Peach Cobbler </item>
+        <item>Texas Sheet Cake </item>
+        <item>Espresso Crinkles </item>
+        <item>Chocolate Cherry Cookies </item>
+        <item>Vanilla Cheesecake </item>
+        <item>Tiramisu </item>
+        <item>Carrot Cake </item>
+        <item>Blueberry Ice Cream </item>
+</string-array>
+
+    //Recipe Description
+<string-array name="Recipe_Desc">
+    <item>You'll love these if you're a big fan of thin chocolate mint Girl Scout cookies. The dense base layer is a rich fudgy brownie.</item>
+    <item>Lemon and blueberry flavors give these cupcakes a great taste. Blueberries or fresh, edible flowers make an easy, pretty decoration.</item>
+    <item>These brownies are rich in cocoa, melted chocolate and chocolate chunks.</item>
+    <item>This lemon cake recipe trims the fat and calories while still retaining the moist lemony quality.</item>
+    <item>Use fresh blueberries and peaches that aren't super ripe for this cobbler recipe so they'll hold their shape when cooked.</item>
+    <item>This class Texas sheet cake recipe features a homemade chocolate cake layer topped with chocolate frosting and chopped toasted pecans.  Its rectangular shape makes this cake perfect for serving to a crowd.</item>
+    <item>These cookies are flavored with espresso.</item>
+    <item> Chocolate and cherry flavours mixed together. Using bittersweet chocolate, the sugar is reduced and the cookies get a deeper flavor.</item>
+    <item>This cheesecake comes with cherry toppings.</item>
+    <item>Easy and delicious recipe to make real tiramisu.</item>
+    <item>Moist, light, fluffy, and low calorie carrot cake recipe.</item>
+    <item>Cool off on a hot day with a big bowl of creamy homemade ice cream. Perfect for entertaining, this five-star recipe makes enough for a crowd.</item>
+</string-array>
+
+</resources>
