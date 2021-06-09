@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/sportsImageDetails"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:transitionName="ivSports" />
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:layout_alignBottom="@id/sportsImageDetails"
+            android:textAppearance="@style/SportsTitle"
+            android:theme="@style/ThemeOverlay.AppCompat.Dark"
+            android:text="@string/title_placeholder" />
+
+        <TextView
+            android:id="@+id/newsTitle"
+            style="@style/SportsDetailText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/sportsImageDetails"
+            android:textColor="@color/design_default_color_secondary"
+            android:padding="8dp"
+            android:text="@string/news_placeholder" />
+
+        <TextView
+            android:id="@+id/subTitle"
+            style="@style/SportsDetailText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/newsTitle"
+            android:padding="8dp"
+            android:text="@string/sports_info_placeholder" />
+
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>
