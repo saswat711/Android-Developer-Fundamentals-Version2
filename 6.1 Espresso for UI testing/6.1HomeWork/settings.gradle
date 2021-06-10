@@ -1,0 +1,2 @@
+rootProject.name = "Score Kepper"
+include ':app'
