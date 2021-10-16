@@ -1,0 +1,14 @@
+com/example/droidcafesettingshw/SettingsActivity.java
+ com.example.droidcafesettingshw.SettingsActivity
+ com.example.droidcafesettingshw.SettingsActivity$1
+ com.example.droidcafesettingshw.SettingsActivity$GeneralFragment
+ com.example.droidcafesettingshw.SettingsActivity$HeaderFragment
+ com.example.droidcafesettingshw.SettingsActivity$MessagesFragment
+ com.example.droidcafesettingshw.SettingsActivity$SyncFragment
+com/example/droidcafesettingshw/MainActivity.java
+ com.example.droidcafesettingshw.MainActivity
+ com.example.droidcafesettingshw.MainActivity$1
+com/example/droidcafesettingshw/OrderActivity.java
+ com.example.droidcafesettingshw.OrderActivity
+com/example/droidcafesettingshw/BuildConfig.java
+ com.example.droidcafesettingshw.BuildConfig

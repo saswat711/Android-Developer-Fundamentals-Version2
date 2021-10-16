@@ -13,7 +13,7 @@ import android.view.View;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class MainActivity extends AppCompatActivity {
+public class    MainActivity extends AppCompatActivity {
     private ArrayList<Sport> mSportsData;
     private SportsAdapter mAdapter;
     private static final String BUNDLE_KEY = "Sports_data";

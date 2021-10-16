@@ -96,8 +96,8 @@ public class SportsAdapter extends RecyclerView.Adapter<SportsAdapter.ViewHolder
             super(itemView);
 
             // Initialize the views.
-            mTitleText = itemView.findViewById(R.id.title);
-            mInfoText = itemView.findViewById(R.id.subTitle);
+            mTitleText = itemView.findViewById(R.id.tvMedTrackName);
+            mInfoText = itemView.findViewById(R.id.tvMedTrackCreator);
             mSportsImage = itemView.findViewById(R.id.sportsImageDetails);
 
             // Set the OnClickListener to the entire view.
